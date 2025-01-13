@@ -1,1 +1,7 @@
 esm.egg-info
+
+# virtual environment
+.env
+
+# data
+data/
